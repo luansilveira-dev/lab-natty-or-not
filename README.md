@@ -6,7 +6,7 @@ O projeto é um artigo baseado na live da DIO, [**Dominando Orientação a Objet
 ## 🤖 Tecnologias Utilizadas
 - [**Leonardo.Ai**](https://leonardo.ai/)
 - [**Video to Blog**](https://www.videotoblog.ai/?via=dante)
-- 
+
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
 
